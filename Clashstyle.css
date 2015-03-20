@@ -43,6 +43,10 @@ img {
 	display:absolute;
 	font-size:18px;
 	font-family: Cambria;
+<<<<<<< HEAD
+=======
+	text-decoration: none;
+>>>>>>> master
 }
 
 ul {
@@ -87,4 +91,8 @@ a {
 	width:;
 	margin:;
 	background-color:;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> master
